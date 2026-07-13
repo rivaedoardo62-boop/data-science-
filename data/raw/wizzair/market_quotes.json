@@ -1,0 +1,35 @@
+{
+ "WIZZ.L": {
+  "marketCap": 1167295232,
+  "currency": "GBp",
+  "price": 1128.0,
+  "shares": 103483617,
+  "targetLow": 688.00446,
+  "targetMean": 1136.4211,
+  "targetHigh": 1583.4061,
+  "nAnalysts": 21,
+  "recommendation": "hold"
+ },
+ "RYA.IR": {
+  "marketCap": 27241041920,
+  "currency": "EUR",
+  "price": 26.22,
+  "shares": 1038941345,
+  "targetLow": 26.5,
+  "targetMean": 30.30789,
+  "targetHigh": 34.0,
+  "nAnalysts": 19,
+  "recommendation": "buy"
+ },
+ "EZJ.L": {
+  "marketCap": 5034588672,
+  "currency": "GBp",
+  "price": 673.5,
+  "shares": 747526182,
+  "targetLow": 340.0,
+  "targetMean": 564.714,
+  "targetHigh": 715.0,
+  "nAnalysts": 14,
+  "recommendation": "hold"
+ }
+}
